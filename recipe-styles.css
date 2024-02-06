@@ -1,0 +1,103 @@
+.step{
+    border: 2px solid #ff6f61;
+    margin: 5% 10%;
+   
+}
+img,.step{
+  border-radius: 10px;
+}
+img {
+    margin: 5px auto;
+    display: block;
+    width: 70%;
+    border: 1px solid silver;
+}
+
+ .stepsection{
+    padding: 5px;
+    margin-bottom: 0%;
+ }
+ body{
+    margin: 0;
+    background-color: #242933;
+    color: #a6adba; 
+    font-family: 'Nunito', sans-serif;
+    font-size: 1.2em;
+ }
+
+ .stepnum{
+    border-radius: 50%;
+ }
+
+ .footer,.stepnum{
+  padding: 1%;
+ }
+
+ h2{
+   font-size: 2em;
+ }
+
+ h2,.tip{
+  font-weight: bold;
+ }
+ ol,a{
+    color: #05c26a;
+    text-decoration:none;
+    font-size: 1.1em;
+ }
+
+ .optional,.tip,a:hover{
+    text-decoration: underline;
+ }
+.header,.stepnum{
+  background-color: #ff6f61;
+}
+
+ .header{
+   font-size: 1.25rem;
+   padding: 2%;
+ }
+
+ .footer,.header{
+  text-align: center;
+ }
+ .footer,.header,.section1{
+  margin:0%;
+ }
+ .section1{
+   background-color: #3d4150;
+   font-size: 1.25em;
+ }
+
+ .section1,.step{
+  padding: 3%;
+ }
+
+ #comments,#ackno,.header,.stepnum{
+  color: white;
+ }
+
+ #comments,#ackno{
+   font-size: 0.9em;
+ }
+ #comments > p {
+   border-bottom: 2px solid white;
+   padding-bottom: 10px;
+   margin-bottom: 50px;
+ }
+
+
+ .tip{
+  color:red;
+  font-size: 1.5em;
+ }
+
+ .footer{
+  background-color:  #515164;
+  color: #fff;
+  border-top: 1px solid;
+ }
+ 
+a:hover{
+  color: yellow;
+}
